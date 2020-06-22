@@ -178,7 +178,8 @@ nav.fill ul li a:hover:after {
         box-shadow: rgb(255, 123, 0);
         padding-bottom: 1rem;
         padding-top: 1rem;
-        padding-right: 3.1rem;
+        padding-right: 2.8rem;
+        padding-left: 2rem;
       margin-bottom: 0.1rem;
         margin-right: 0.1rem;
         font-size: 1.5em;
@@ -201,7 +202,7 @@ nav.fill ul li a:hover:after {
         text-align: center;
         display: inline-block;
         position: relative;
-        top: 3rem;
+        top: 4rem;
         left: 0.6rem;
         right: 0.6rem;
         text-align: center;
