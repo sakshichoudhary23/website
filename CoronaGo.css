@@ -178,10 +178,11 @@ nav.fill ul li a:hover:after {
         box-shadow: rgb(255, 123, 0);
         padding-bottom: 1rem;
         padding-top: 1rem;
-        padding-right: 2.5rem;
+        padding-right: 3.1rem;
       margin-bottom: 0.1rem;
         margin-right: 0.1rem;
         font-size: 1.5em;
+        text-align: center;
     }
     .cd {
         justify-content: center;
@@ -200,7 +201,7 @@ nav.fill ul li a:hover:after {
         text-align: center;
         display: inline-block;
         position: relative;
-        top: 1rem;
+        top: 3rem;
         left: 0.6rem;
         right: 0.6rem;
         text-align: center;
