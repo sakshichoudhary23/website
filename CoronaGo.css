@@ -1,6 +1,6 @@
 body {
     background-color: rgb(242, 247, 245);
-    margin: 0;
+    margin: 0 0 0 0;
     font-family: 'Comfortaa', cursive;
 }
 
@@ -25,7 +25,7 @@ nav {
     color: blanchedalmond;
     width: 100%;
     margin: 0 auto;
-    background: #fc801b;
+    background: #ff9034;
     padding: 20px 0;
 }
 
@@ -404,7 +404,7 @@ nav.fill ul li a:hover:after {
     box-sizing: border-box;
 }
 #s1 {
-    background-color: #fc801b;
+    background-color: #ff9034;
     color: blanchedalmond;
 }
 
@@ -417,7 +417,7 @@ nav.fill ul li a:hover:after {
 }
 
 #s4 {
-    background-color: #fc801b;
+    background-color: #ff9034;
     color: blanchedalmond;
 }
 
