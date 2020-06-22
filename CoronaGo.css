@@ -399,7 +399,10 @@ nav.fill ul li a:hover:after {
     height: 100vh;
     box-sizing: border-box;
 }
-
+.slide2{
+    height: 90vh;
+    box-sizing: border-box;
+}
 #s1 {
     background-color: #fc801b;
     color: blanchedalmond;
