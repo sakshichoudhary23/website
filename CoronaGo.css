@@ -135,8 +135,8 @@ nav.fill ul li a:hover:after {
         padding-top: 1rem;
         padding-right: 0.9rem;
         padding-left: 0.9rem;
-        margin-bottom: 1rem;
-        margin-right: 1rem;
+        margin-bottom: 0.1rem;
+        margin-right: 0.1rem;
         font-size: 1.5em;
     }
     #a {
@@ -150,8 +150,8 @@ nav.fill ul li a:hover:after {
         padding-top: 1rem;
         padding-right: 2rem;
         padding-left: 2rem;
-        margin-bottom: 1rem;
-        margin-right: 1rem;
+          margin-bottom: 0.1rem;
+        margin-right: 0.1rem;
         font-size: 1.5em;
     }
     #r {
@@ -165,8 +165,8 @@ nav.fill ul li a:hover:after {
         padding-left: 0.9rem;
         padding-bottom: 1rem;
         padding-top: 1rem;
-        margin-bottom: 1rem;
-        margin-right: 1rem;
+           margin-bottom: 0.1rem;
+        margin-right: 0.1rem;
         font-size: 1.5em;
     }
     #d {
@@ -179,8 +179,8 @@ nav.fill ul li a:hover:after {
         padding-bottom: 1rem;
         padding-top: 1rem;
         padding-right: 2.5rem;
-        padding-left: 1.6rem;
-        margin-bottom: 1rem;
+      margin-bottom: 0.1rem;
+        margin-right: 0.1rem;
         font-size: 1.5em;
     }
     .cd {
